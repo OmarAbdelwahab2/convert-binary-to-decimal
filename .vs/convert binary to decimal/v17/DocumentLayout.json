@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\convert binary to decimal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22AFD701-E4DE-42E4-9E87-DDDF6825E6C7}|convert binary to decimal\\convert binary to decimal.vcxproj|C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\convert binary to decimal\\convert binary to decimal\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{22AFD701-E4DE-42E4-9E87-DDDF6825E6C7}|convert binary to decimal\\convert binary to decimal.vcxproj|solutionrelative:convert binary to decimal\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\convert binary to decimal\\convert binary to decimal\\Source.c",
+              "RelativeDocumentMoniker": "convert binary to decimal\\Source.c",
+              "ToolTip": "C:\\Users\\omara\\OneDrive\\Desktop\\amit couse empedded system\\c lectures\\OWN STUDY\\convert binary to decimal\\convert binary to decimal\\Source.c",
+              "RelativeToolTip": "convert binary to decimal\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-10T17:04:48.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
